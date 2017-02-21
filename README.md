@@ -11,6 +11,7 @@ Images include additional packages needed often for building various python depe
  - `libffi-dev`
  - `libssl-dev`
  - `build-essential`
+ - `sudo`
  
 To run selected python version (in example python 2.6) inside image execute command:
 
